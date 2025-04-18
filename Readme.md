@@ -3,6 +3,9 @@
 A modern web application for analyzing speech patterns to detect potential cognitive indicators using unsupervised machine learning. This tool enables users to upload or select datasets of audio files, extract linguistic and acoustic features, and identify "at risk" speech patterns through interactive dashboards and visualizations.
 
 ---
+# deployment link 
+https://ornate-stroopwafel-7dad8f.netlify.app/
+
 
 ## Features
 
@@ -142,8 +145,16 @@ MIT License
 
 ## Screenshots
 
-![Dashboard Screenshot](https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&w=600)  
-*Example UI – Replace with your own screenshots*
+![image](https://github.com/user-attachments/assets/5d086394-bd0a-468b-8aa1-5efe306614df)
+![image](https://github.com/user-attachments/assets/612011a9-3e79-48ec-9eb9-1fe5f709c96d)
+![image](https://github.com/user-attachments/assets/eff51872-0ace-4a8c-9a88-7e40bc554e7e)
+![image](https://github.com/user-attachments/assets/e39f7936-1eaa-4f33-9b15-0af5cb95d44e)
+![image](https://github.com/user-attachments/assets/c19ba9ce-3464-4d47-b992-d6592713d3a3)
+![image](https://github.com/user-attachments/assets/2425c602-346b-40d9-9386-b38cfb84cc9d)
+
+
+
+
 
 ---
 
